@@ -10,8 +10,8 @@ first_name: Callysto
 last_name: Canada
 
 # Status emoji
-status: Open
-  icon: ☕️
+status:
+icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
