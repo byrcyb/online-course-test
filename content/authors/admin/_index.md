@@ -135,5 +135,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Callysto is a computational thinking, coding, and data literacy program for Grades 5-12 teachers and students. On this site you can access online courses built by Callysto to teach Computational Thinking and Data Science in the classroom. These materials are made publicly available under a Creative Commons License that allows users to Share and Adapt the content. 
 {style="text-align: justify;"}
